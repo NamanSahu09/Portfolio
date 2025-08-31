@@ -1,0 +1,12 @@
+import React from 'react'
+import { Canvas } from '@react-three/fiber'
+const HeroExperience = () => {
+  return (
+    <Canvas camera={{ position: [0, 0, 1]}}>
+
+    </Canvas>
+
+  )
+}
+
+export default HeroExperience
